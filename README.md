@@ -64,7 +64,7 @@ Contact
 Feel free to reach out to me via the following platforms:
 
 Email: logeshselvan6@gmail.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
-Instagram: Your Instagram Profile
+LinkedIn: https://www.linkedin.com/in/logesht14/
+GitHub: https://github.com/Logesh3931
+Instagram: https://www.instagram.com/_.logi._.14
 Thank you for visiting my portfolio! I hope you find it informative and engaging. Feel free to connect with me for any inquiries or collaboration opportunities.
